@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "db083dea732fe9e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "32eeb928f508e944",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f000d34f4d17655",
+    "type": "split",
+    "children": [
+      {
+        "id": "659b2ffae1071899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c0db50febbbeb2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "734e6c09eb758c34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ccbae8f35ec735d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "faa41a6f53af32a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74d4a111a7b28d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "terminal_linux/comandos_linux.md",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}
