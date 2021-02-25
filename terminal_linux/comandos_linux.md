@@ -32,14 +32,3 @@ whatis -> Exibe uma explicação sobre o comando
 && -> Usado para que dois comandos só sejam executado se o primeiro for executado com sucesso.
 
 
-## Resetando o usuario de e-mail e nickname
-
-git config --global --unset user.email
-
-git config --global --unset user.nickname 
-
-## Cadastrando usuário de e-amil e nickname.
-
-git config --global user.emil "seu e-mail"
-
-git config --global user.nickname "seu nome de usuário login"
